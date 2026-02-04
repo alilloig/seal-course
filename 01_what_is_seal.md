@@ -49,5 +49,5 @@ Before diving into architecture, here are the terms you'll encounter throughout 
 
 ## Further Reading
 
-- [Seal Overview](../index.md) — Official overview with feature list and contact info
-- [Seal Whitepaper](../Seal_White_Paper_v1.pdf) — Formal cryptographic analysis and security proofs (19 pages)
+- [Seal Overview](./docs/index.md) — Official overview with feature list and contact info
+- [Seal Whitepaper](./docs/Seal_White_Paper_v1.pdf) — Formal cryptographic analysis and security proofs (19 pages)

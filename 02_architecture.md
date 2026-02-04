@@ -100,5 +100,5 @@ Seal integrates with other Sui ecosystem components:
 
 ## Further Reading
 
-- [Seal Design](../Design.md) — Technical architecture details including the trust model
-- [Seal Whitepaper](../Seal_White_Paper_v1.pdf) — Formal definitions of TSS-BF-KEM and UC-security proofs
+- [Seal Design](./docs/Design.md) — Technical architecture details including the trust model
+- [Seal Whitepaper](./docs/Seal_White_Paper_v1.pdf) — Formal definitions of TSS-BF-KEM and UC-security proofs

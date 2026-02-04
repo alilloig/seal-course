@@ -144,7 +144,7 @@ Features planned for future Seal releases (from `index.md`):
 
 ## Further Reading
 
-- [Using Seal — On-Chain Decryption](../UsingSeal.md#on-chain-decryption) — Full TypeScript SDK code for on-chain decryption
-- [Key Server Committee Operations](../KeyServerCommitteeOps.md) — Complete DKG and rotation runbooks
-- [Aggregator](../Aggregator.md) — Aggregator server setup and Docker deployment
-- [Seal CLI](../SealCLI.md) — Full CLI walkthrough with example outputs
+- [Using Seal — On-Chain Decryption](./docs/UsingSeal.md#on-chain-decryption) — Full TypeScript SDK code for on-chain decryption
+- [Key Server Committee Operations](./docs/KeyServerCommitteeOps.md) — Complete DKG and rotation runbooks
+- [Aggregator](./docs/Aggregator.md) — Aggregator server setup and Docker deployment
+- [Seal CLI](./docs/SealCLI.md) — Full CLI walkthrough with example outputs

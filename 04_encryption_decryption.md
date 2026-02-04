@@ -183,7 +183,7 @@ To debug a transaction, call `dryRunTransactionBlock` directly with the transact
 
 ## Further Reading
 
-- [Getting Started](../GettingStarted.md) — Quick-start bootstrap guide
-- [Using Seal — Encryption](../UsingSeal.md#encryption) — Full encryption API details
-- [Using Seal — Decryption](../UsingSeal.md#decryption) — Full decryption API with on-chain variant
-- [Using Seal — Performance](../UsingSeal.md#optimizing-performance) — Optimization strategies
+- [Getting Started](./docs/GettingStarted.md) — Quick-start bootstrap guide
+- [Using Seal — Encryption](./docs/UsingSeal.md#encryption) — Full encryption API details
+- [Using Seal — Decryption](./docs/UsingSeal.md#decryption) — Full decryption API with on-chain variant
+- [Using Seal — Performance](./docs/UsingSeal.md#optimizing-performance) — Optimization strategies

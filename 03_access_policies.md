@@ -117,6 +117,6 @@ sui client publish
 
 ## Further Reading
 
-- [Example Patterns](../ExamplePatterns.md) — Pattern summaries with links to Move source
-- [Using Seal — Access Control Management](../UsingSeal.md) — Full guidelines for `seal_approve*` functions
-- [Seal Design](../Design.md) — Time-lock encryption example with walkthrough
+- [Example Patterns](./docs/ExamplePatterns.md) — Pattern summaries with links to Move source
+- [Using Seal — Access Control Management](./docs/UsingSeal.md) — Full guidelines for `seal_approve*` functions
+- [Seal Design](./docs/Design.md) — Time-lock encryption example with walkthrough

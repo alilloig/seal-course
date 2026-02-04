@@ -86,5 +86,5 @@ Seal's formal security is proven in the whitepaper under the co-BDH (co-Bilinear
 
 ## Further Reading
 
-- [Security Best Practices](../SecurityBestPractices.md) — Full list of operational recommendations
-- [Seal Whitepaper — Section 5](../Seal_White_Paper_v1.pdf) — Formal cryptographic definitions and proofs
+- [Security Best Practices](./docs/SecurityBestPractices.md) — Full list of operational recommendations
+- [Seal Whitepaper — Section 5](./docs/Seal_White_Paper_v1.pdf) — Formal cryptographic definitions and proofs

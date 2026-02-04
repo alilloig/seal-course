@@ -94,5 +94,5 @@ Contact providers directly for Mainnet access: Ruby Nodes, NodeInfra, Overclock,
 
 ## Further Reading
 
-- [Key Server Operations](../KeyServerOps.md) — Full operational guide for running a standalone key server
-- [Pricing & Verified Servers](../Pricing.md) — Complete provider list with URLs and Object IDs
+- [Key Server Operations](./docs/KeyServerOps.md) — Full operational guide for running a standalone key server
+- [Pricing & Verified Servers](./docs/Pricing.md) — Complete provider list with URLs and Object IDs
